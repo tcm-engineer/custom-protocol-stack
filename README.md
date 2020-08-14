@@ -1,4 +1,4 @@
-# custom-protocol-stack
+# Custom Protocol Stack
 
 Our team protocol stack design comprises of 5-layers, application, transport, network, datalink and physical. 
 The implementation is a full, working, network architecture capable of supporting a smart lighting application 
